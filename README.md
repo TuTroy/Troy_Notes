@@ -39,6 +39,7 @@ git push # 之后输入用户名 和token settings-->Developer settings生成
 git fetch # 更新到本地，暂时不会发生变化
 git diff origin/master # 本地和远程仓库的区别
 git pull # 直接到工作区
+git checkout branch2 -- XX #把另个分支的文件XX移到当前分支
 
 ~~~
 
